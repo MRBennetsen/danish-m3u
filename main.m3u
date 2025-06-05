@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="P3 DR" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRki9F1loPgVMxyRUBn8bff2dxI-H0ovWj-1aueHUusO_EgJnnqFE6KkO8NG5MYaLP-fVUYK-TYRIHIlein2EkAK8ZPTuOuTsloTRrl1uM" group-title="Radio",DR P3
+#EXTINF:-1 tvg-id="P3.DR.dk" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRki9F1loPgVMxyRUBn8bff2dxI-H0ovWj-1aueHUusO_EgJnnqFE6KkO8NG5MYaLP-fVUYK-TYRIHIlein2EkAK8ZPTuOuTsloTRrl1uM" group-title="Radio",DR P3
 https://drp3webcamhls.akamaized.net/hls/live/2040938/p3webcam/5.m3u8
 
 #EXTINF:-1 tvg-id="TV2NordSalto.dk" tvg-logo="https://yt3.googleusercontent.com/cd6Q1PneAENnY-o6MEK4WA3xut9W03hQ56tntzPfQRb4HSmh9mFngMXxFz1-aqlmU-Hv_HqF8pk=s900-c-k-c0x00ffffff-no-rj" group-title="Regional",TV2 Nord Salto
