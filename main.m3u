@@ -1,0 +1,28 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="DRP3.dk" tvg-logo="https://i.imgur.com/OETzsOI.png" group-title="Radio",DR P3
+https://drp3webcamhls.akamaized.net/hls/live/2040938/p3webcam/5.m3u8
+
+#EXTINF:-1 tvg-id="TV2NordSalto.dk" tvg-logo="https://i.imgur.com/cEOpXU6.png" group-title="Regional",TV2 Nord Salto
+https://content.jwplatform.com/live/broadcast/KFXZ5tL6.m3u8
+
+#EXTINF:-1 tvg-id="TVStorbyen.dk" tvg-logo="https://i.ibb.co/X5h3hJL/tvstb.png" group-title="General",BL-TV/TV Storbyen (720p) [Not 24/7]
+https://5eeb3940cfaa0.streamlock.net/webtv_live/_definst_/mp4:kanalnordvest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DR1.dk" tvg-logo="https://i.imgur.com/OETzsOI.png" group-title="General",DR1 (1080p) [Geo-blocked]
+https://drlivedr1hls.akamaized.net/hls/live/2113625/drlivedr1/master.m3u8
+
+#EXTINF:-1 tvg-id="DR2.dk" tvg-logo="https://i.imgur.com/7bYtukP.png" group-title="Culture",DR2 (1080p) [Geo-blocked]
+https://drlivedr2hls.akamaized.net/hls/live/2113623/drlivedr2/master.m3u8
+
+#EXTINF:-1 tvg-id="TVfromtheDanishParliament.dk" tvg-logo="https://i.imgur.com/RqQDUzX.png" group-title="Legislative",Folketinget (1080p) [Not 24/7]
+https://cdnapi.kaltura.com/p/2158211/sp/327418300/playManifest/entryId/1_24gfa7qq/protocol/https/format/applehttp/a.m3u8
+
+#EXTINF:-1 tvg-id="KanalHovedstaden.dk" tvg-logo="https://i.imgur.com/afujBQs.jpeg" group-title="General",Kanal Hovedstaden (720p) [Not 24/7]
+http://khkbh.dk:8080/hls/livestream/index.m3u8
+
+#EXTINF:-1 tvg-id="KKRtv.dk" tvg-logo="https://i.imgur.com/TbtjWHI.png" group-title="Religious",KKRtv (720p) [Not 24/7]
+http://stream.kkr.dk/live/kkr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV2Bornholm.dk" tvg-logo="https://i.imgur.com/cEOpXU6.png" group-title="Undefined",TV2/Bornholm (1080p) [Not 24/7]
+https://cdn-akamai-live.tv2bornholm.dk/stream/live/playlist.m3u8
